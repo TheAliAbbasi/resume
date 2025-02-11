@@ -1,51 +1,53 @@
 
-## **Ali Abbasi**  
+### **Ali Abbasi**  
 Site Reliability Engineer | Backend Developer  
 https://www.linkedin.com/in/thealiabbasi/
 
 
 
-## **Summary**
+### **Summary**
 
-A Site Reliability Engineer with 12 years of experience in backend development and system optimization. With a strong foundation in PHP, I’ve evolved into a DevOps-focused engineer, specializing in system reliability, debugging, and transitioning large systems to microservices. Over the past 4 years, I've contributed to the success of Sheypoor by improving system performance, ensuring high availability, and optimizing backend services. I’m passionate about problem-solving and thrive in environments where I can improve processes, design scalable solutions, and ensure long-term system health.
+**Senior Backend Engineer | Site Reliability Expert | Scalable Systems Architect**
+
+Senior Backend Engineer with **12+ years** of experience in **high-performance backend systems, API development, and cloud infrastructure**. Proven expertise in **scaling monolithic architectures into microservices**, optimizing backend performance, and enhancing system reliability. At Sheypoor, reduced PHP monolith response time by **60%**, implemented **JWT-based authentication**. Skilled in **Golang, PHP (Laravel, Phalcon), Kubernetes, Docker, and CI/CD pipelines**, with a passion for **solving complex problems and designing resilient architectures**.
 
 
-## **Experience**
+### **Experience**
 
 **Site Reliability Engineer**  
 _Sheypoor | Tehran, Iran (Hybrid)_  
 **Jul 2020 – Present**
 
--   Ensured the reliability and performance of backend services for Sheypoor, a major online platform in Iran.
--   Spearheaded the transition from a monolithic architecture to microservices.
--   Rewrote the Limiter service and contributed to the redesign of the Auth service, transitioning to JWT while maintaining seamless user sessions.
--   Resolved recurring nightly downtimes, ensuring consistent system stability.
--   Implemented Prometheus and VictoriaMetrics to gather business-level metrics, enhancing observability and decision-making.
--   Reduced response time of the PHP monolith from 160ms to 60ms in 3 months by completing over 20 targeted performance improvements.
--   Maintained and optimized Nginx and Varnish configurations to ensure high availability and performance.
+-   Maintained **99.9% uptime** for Sheypoor’s backend services, optimizing performance and reliability.
+-   Led the **migration of 5+ services** from a monolithic system to microservices, reducing response time by **20%**.
+-   Developed a **JWT-based authentication system**, improving login efficiency by **20%** and enhancing security.
+-   Diagnosed and fixed recurring **downtime incidents**, improving system stability and reducing failure rates by **80%**.
+-   Integrated **Prometheus and VictoriaMetrics**, enabling **real-time monitoring of 20+ metrics** for data-driven decision-making.
+-   Optimized **PHP monolith performance**, reducing response time from **160ms to 60ms** through **10+ targeted improvements** in **3 months**.
+-   Tuned **Nginx and Varnish** configurations, achieving **10% faster request handling**.
 
 **Senior Backend Developer**  
 _Sheypoor | Tehran, Iran_  
 **Nov 2019 – Jul 2020**
 
--   Developed APIs for Sheypoor’s mobile applications and improved backend performance within a large PHP monolith.
--   Enhanced scalability by addressing complex policies and ensuring high availability.
--   Implemented the circuit breaker pattern to reduce downtimes caused by external service
+-   Designed and deployed **30+ RESTful APIs** for Sheypoor’s mobile apps, providing **5+ services** to clients.
+-   Implemented a **payment gateway strategy** improving the payment success rate by **20%**
+-   Developed a **circuit breaker pattern**, cutting external service-related downtime by **20%** and improving system resilience.
 
 **Full Stack Web Developer**  
 _Kalasoda | Tehran Province, Iran_  
 **Aug 2018 – Sep 2019**
 
--   Developed and maintained technology news platforms, improving user experience and system efficiency.
+-   Designed and maintained a **high-traffic tech news platform**, optimizing UI/UX and increasing page load speed by **80%**.
 
 **Co-founder & Full Stack Web Developer**  
 _EventCenter.ir | Isfahan, Iran_  
 **Aug 2015 – Jul 2018**
 
--   Co-founded a platform providing event registration and ticket sales solutions.  
--  Directed all technical aspects of the business, including backend development, server administration, and mentoring team members.  
--   Delivered a comprehensive event management system, supporting activities like workshops, tours, and conferences.  
--   Handled system optimization, troubleshooting, and ensuring platform scalability during peak traffic periods.
+-   Launched and scaled **EventCenter.ir**, managing **6k+ events** and processing **70k+ transactions**.
+-  Led **end-to-end backend development**, mentoring a team of **3** developers.
+-   Built an event management system handling **1k+ registrations/month**, ensuring **99% uptime**.
+-   Optimized **server performance**, reducing downtime by **10%** and handling peak traffic of **5k+ concurrent users**.
 
 **Web Developer**  
 _Daart Co. | Isfahan, Iran_  
@@ -60,16 +62,29 @@ _GN Graphic | Isfahan, Iran_
 -   Developed small websites and web applications using PHP, focusing on client needs and delivering efficient solutions.
 
 
-## **Skills**
+### **Skills**
+#### **Backend Development & Architecture:**
 
--   **Backend Development:** Golang, PHP, Laravel, Phalcon
--   **System Monitoring & Metrics:** Prometheus, VictoriaMetrics, Elasticsearch, Grafana, Kibana, Graylog
--   **DevOps & Cloud:** Docker, RabbitMQ, Nginx, CI/CD pipelines
--   **Web Development:** HTML, CSS, REST APIs, MySQL
--   **Problem Solving & Debugging:** Strong analytical skills with a focus on identifying and resolving complex technical issues
+-   **Languages:** Golang, PHP (Laravel, Phalcon), Python (basic)
+-   **API Development:** RESTful APIs, GraphQL, gRPC
+-   **Microservices & Architecture:** Distributed Systems, Event-Driven Architecture, Design Patterns
 
+#### **System Reliability & Performance:**
 
-## **Education**
+-   **Monitoring & Observability:** Prometheus, VictoriaMetrics, Grafana, Kibana, Graylog
+-   **Performance Optimization:** Caching Strategies, Load Balancing, High Availability (HA)
+
+#### **DevOps & Cloud Infrastructure:**
+
+-   **Containerization & Orchestration:** Docker, Kubernetes (K8s), Helm
+-   **CI/CD Pipelines:** GitLab CI/CD, Jenkins
+
+#### **Databases & Storage:**
+
+-   **SQL & NoSQL:** MySQL, PostgreSQL, Redis, Elasticsearch
+-   **Message Queues:** RabbitMQ, Kafka, Redis
+
+### **Education**
 
 **Bachelor’s Degree in Software engineering**  
 Sheikh Bahaei University | 2017
