@@ -31,7 +31,7 @@ _Sheypoor | Tehran, Iran_
 **Nov 2019 – Jul 2020**
 
 - Designed and deployed **30+ RESTful APIs** for Sheypoor’s mobile apps, providing **5+ services** to clients.
-- Implemented a **payment gateway strategy** improving the payment success rate by **20%**
+- Implemented a **payment gateway strategy** improving the payment success rate by **20%**.
 - Developed a **circuit breaker pattern**, cutting external service-related downtime by **20%** and improving system resilience.
 
 **Full Stack Web Developer**  
